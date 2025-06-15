@@ -1,0 +1,61 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdf6ee;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+.logo {
+  width: 100px;
+  border-radius: 50%;
+}
+header h1 {
+  margin-top: 10px;
+  font-size: 24px;
+}
+.menu-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.menu-section {
+  margin-top: 40px;
+}
+.drink-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.drink-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+.price {
+  font-weight: bold;
+  margin: 10px 0;
+}
+.order-button {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #25d366;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #aaa;
+}
